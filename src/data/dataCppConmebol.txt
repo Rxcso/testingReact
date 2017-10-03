@@ -1,0 +1,90 @@
+Argentina Bolivia 2:0
+Argentina Brasil 1:1
+Argentina Chile 1:0
+Argentina Colombia 3:0
+Argentina Ecuador 0:2
+Argentina Paraguay 0:1
+Argentina Peru 
+Argentina Uruguay 1:0
+Argentina Venezuela 1:1
+Bolivia Argentina 2:0
+Bolivia Brasil 
+Bolivia Chile 1:0
+Bolivia Colombia 2:3
+Bolivia Ecuador 2:2
+Bolivia Paraguay 1:0
+Bolivia Peru 0:3
+Bolivia Uruguay 0:2
+Bolivia Venezuela 4:2
+Brasil Argentina 3:0
+Brasil Bolivia 5:0
+Brasil Chile 
+Brasil Colombia 2:1
+Brasil Ecuador 2:0
+Brasil Paraguay 3:0
+Brasil Peru 3:0
+Brasil Uruguay 2:2
+Brasil Venezuela 3:1
+Chile Argentina 1:2
+Chile Bolivia 3:0
+Chile Brasil 2:0
+Chile Colombia 1:1
+Chile Ecuador 
+Chile Paraguay 0:3
+Chile Peru 2:1
+Chile Uruguay 3:1
+Chile Venezuela 3:1
+Colombia Argentina 0:1
+Colombia Bolivia 1:0
+Colombia Brasil 1:1
+Colombia Chile 0:0
+Colombia Ecuador 3:1
+Colombia Paraguay 
+Colombia Peru 2:0
+Colombia Uruguay 2:2
+Colombia Venezuela 2:0
+Ecuador Argentina 
+Ecuador Bolivia 2:0
+Ecuador Brasil 0:3
+Ecuador Chile 3:0
+Ecuador Colombia 0:2
+Ecuador Paraguay 2:2
+Ecuador Peru 1:2
+Ecuador Uruguay 2:1
+Ecuador Venezuela 3:0
+Paraguay Argentina 0:0
+Paraguay Bolivia 2:1
+Paraguay Brasil 2:2
+Paraguay Chile 2:1
+Paraguay Colombia 0:1
+Paraguay Ecuador 2:1
+Paraguay Peru 1:4
+Paraguay Uruguay 1:2
+Paraguay Venezuela 
+Peru Argentina 2:2
+Peru Bolivia 2:1
+Peru Brasil 0:2
+Peru Chile 3:4
+Peru Colombia 
+Peru Ecuador 2:1
+Peru Paraguay 1:0
+Peru Uruguay 2:1
+Peru Venezuela 2:2
+Uruguay Argentina 0:0
+Uruguay Bolivia 
+Uruguay Brasil 1:4
+Uruguay Chile 3:0
+Uruguay Colombia 3:0
+Uruguay Ecuador 2:1
+Uruguay Paraguay 4:0
+Uruguay Peru 1:0
+Uruguay Venezuela 3:0
+Venezuela Argentina 2:2
+Venezuela Bolivia 5:0
+Venezuela Brasil 0:2
+Venezuela Chile 1:4
+Venezuela Colombia 0:0
+Venezuela Ecuador 1:3
+Venezuela Paraguay 0:1
+Venezuela Peru 2:2
+Venezuela Uruguay 

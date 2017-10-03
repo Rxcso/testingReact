@@ -1,9 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
+import CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup';
 
 const json = require('./j1.json');
 
+/*
 function Square(props) {
   return (
     <button className="square" onClick={props.onClick}>
@@ -164,4 +168,124 @@ function calculateWinner(squares) {
   }
   return null;
 }
+
+*/
+
+function CountryLine(props) {
+  return (
+    <tr onClick={props.onClick} key={props.obj.pais}  className={ props.obj.pos%2?"par" :"impar" } >
+    <td>
+      <div className="col-xs-2">
+      <img src={props.obj.url} /></div>
+      <div className="col-xs-9"> <span> { props.obj.pais}</span></div></td>
+    <td>{props.obj.pj}</td>
+    <td>{props.obj.ptos}</td>
+
+    </tr>
+  );
+}
+
+
+
+class Table extends React.Component {
+  constructor() {
+    super();
+    this.state = { "pais": ""
+   };
+  }
+
+  render(){
+    const paises = json.paises;
+    const llave = this.props.valor;
+
+    let pos=0;
+    for (; pos < paises.length; pos++) {
+      if(paises[pos].pais===llave) break;
+    }
+
+    
+    if(pos===paises.length){
+
+      let listapaises = paises.map( (obj)=>{
+        return (
+          <CountryLine obj={obj}  onClick={ ()=> this.props.onClick(obj.pais) }/>
+        );
+      } 
+      );
+
+      return(
+        <div className="todo1">
+        <table className="tabla-res">
+          <tr >
+            <th className="col-xs-6"><center>Pais</center> </th>
+            <th >PJ </th>
+            <th >Ptos</th>
+            </tr>
+          {listapaises}
+        </table>
+        </div>
+      )
+    }
+    else{
+      // Estamos en algun pais
+
+      const lista = [1,2,3,4,6,7,8,9,1];
+      
+      return(
+        <div className="todo1">
+          <div onClick={()=>this.props.onClick("")} > {"< Volver"} </div>
+          <div><img src={paises[pos].url } /> {paises[pos].pais} </div>
+          <div>Sus probabilidads de clasificar son 50%</div>
+          <div className="footer">
+            *Para el calculo se ha considerado victoria, empate y derrota igual de probables
+          </div>
+        </div>
+
+
+      ); 
+    }
+
+  }
+
+}
+
+
+
+class Pagina extends React.Component {
+  constructor() {
+    super();
+    this.state={"llave":""};
+    //console.log("creando");
+  }
+
+  click(val){
+    this.setState({"llave":val})
+    //console.log("click");
+    //console.log(val);
+  }
+
+  render(){
+    //console.log("llave en pag "+this.state.llave);
+    return(
+        
+        <CSSTransitionGroup
+          transitionName= {  this.state.llave!==""?"background":"example"}
+          transitionEnterTimeout={500}
+          transitionLeaveTimeout={500}>
+          <Table  key={this.state.llave} valor={this.state.llave} onClick={ (val)=> this.click(val) }/>
+        </CSSTransitionGroup>
+    );
+  }
+
+
+}
+
+ReactDOM.render(
+  
+<Pagina />,
+document.getElementById('root')
+)
+
+
+
 

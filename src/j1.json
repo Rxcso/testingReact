@@ -1,4 +1,9 @@
 {
-"trying":"learn",
-"react":3.14159
+    "cabecera":{"pais":"Pais","pj":"PJ","ptos":"Puntos"},
+"paises":[{"pos":1,"pais":"Argentina", "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/20px-Flag_of_Argentina.svg.png" ,"pj":2,"ptos":12 },
+{"pos":2,"pais":"Chile", "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/20px-Flag_of_Argentina.svg.png" ,"pj":2,"ptos":12 },
+{"pos":3,"pais":"Chile", "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/20px-Flag_of_Argentina.svg.png" ,"pj":2,"ptos":12 },
+{"pos":4,"pais":"Chile", "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/20px-Flag_of_Argentina.svg.png" ,"pj":2,"ptos":12 },
+{"pos":5,"pais":"Chile", "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/20px-Flag_of_Argentina.svg.png" ,"pj":2,"ptos":12 }]
+
 }
