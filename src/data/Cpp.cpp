@@ -159,16 +159,34 @@ void print(int i){
             
             for(auto p : PR){
                 cout<<p.fst<<endl;
+                for(ii sc: p.snd.begin()->fst){
+                            string local=Lista[sc.fst].snd.fst;
+                            string visita=Lista[sc.fst].snd.snd;
+                            cout<<(visita==p.fst?local:visita)<<" ";
+                }
+                                    
+                cout<<endl;
                 for(auto r : p.snd){
                     int acc = 0;
+
+
                     for(ii sc: r.fst){
-                        
-                        if(Lista[sc.fst].snd.fst==p.fst) acc+=PUNT[sc.snd];
-                        else acc+= PUNT[2-sc.snd];
-                        cout<<RES[sc.snd]<<" ";
+                        int val;                        
+
+                        if(Lista[sc.fst].snd.fst==p.fst){
+                                val=PUNT[sc.snd];
+                        } 
+                        else{
+                            val= PUNT[2-sc.snd];
+                        }
+                        acc+= val;
+                        if(val==3)   cout<<"V ";
+                        else if(val==1)cout<<"E ";
+                        else cout<<"D ";
+                        //cout<<RES[sc.snd]<<" ";
                     }
                     
-                    printf(" +%d ",acc);
+                    printf("+%d ",acc);
                     printf("%.6lf\n",(r.snd*9.0*100)/i);
                     
                 }
@@ -180,6 +198,7 @@ void print(int i){
 }
 
 void imprimeDependencias(){
+
     cout << setw(20) << left <<"Pais";
     for( auto p1 : Pais ){
         cout <<" "<<setw(7)<<left<< p1.fst.substr(0,3); 
@@ -213,7 +232,7 @@ void imprimeDependencias(){
             
             printf("%+8.2lf",((Dep[p1.fst][p2.fst]-actProb[p2.fst])/actProb[p2.fst]) *100) ;
         }
-        //printf("%8.2lf",)
+
         printf("\n");
     }
 

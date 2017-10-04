@@ -1,19 +1,19 @@
-<table border="1" cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px solid #aaa; border-collapse: collapse; font-size: 95%; margin: auto;" width="66%">
-<tr style="background: #006699; color: white;">
+<table style="background: #f5faff; border: 1px solid #aaa; border-collapse: collapse; font-size: 95%; margin: auto;" border="1" width="66%" cellspacing="0" cellpadding="3">
+<tbody><tr style="background: #006699; color: white;">
 <td><b><small style="cursor: help;" title="Local \ Visitante"><sub>L</sub>\<sup>V</sup></small></b></td>
-<td><span class="flagicon"><img alt="Bandera de Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/20px-Flag_of_Argentina.svg.png" title="Bandera de Argentina" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/30px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/40px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></span></td>
-<td><span class="flagicon"><img alt="Bandera de Bolivia" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/20px-Flag_of_Bolivia.svg.png" title="Bandera de Bolivia" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/30px-Flag_of_Bolivia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/40px-Flag_of_Bolivia.svg.png 2x" data-file-width="1100" data-file-height="750" /></span></td>
-<td><span class="flagicon"><img alt="Bandera de Brasil" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/20px-Flag_of_Brazil.svg.png" title="Bandera de Brasil" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/30px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></span></td>
-<td><span class="flagicon"><img alt="Bandera de Chile" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/20px-Flag_of_Chile.svg.png" title="Bandera de Chile" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/30px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/40px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" /></span></td>
-<td><span class="flagicon"><img alt="Bandera de Colombia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" title="Bandera de Colombia" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/30px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png 2x" data-file-width="450" data-file-height="300" /></span></td>
-<td><span class="flagicon"><img alt="Bandera de Ecuador" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/20px-Flag_of_Ecuador.svg.png" title="Bandera de Ecuador" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/30px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png 2x" data-file-width="1440" data-file-height="960" /></span></td>
-<td><span class="flagicon"><img alt="Bandera de Paraguay" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/20px-Flag_of_Paraguay.svg.png" title="Bandera de Paraguay" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/30px-Flag_of_Paraguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/40px-Flag_of_Paraguay.svg.png 2x" data-file-width="600" data-file-height="330" /></span></td>
-<td><span class="flagicon"><img alt="Bandera de Perú" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/20px-Flag_of_Peru.svg.png" title="Bandera de Perú" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/30px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/40px-Flag_of_Peru.svg.png 2x" data-file-width="900" data-file-height="600" /></span></td>
-<td><span class="flagicon"><img alt="Bandera de Uruguay" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/20px-Flag_of_Uruguay.svg.png" title="Bandera de Uruguay" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/30px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/40px-Flag_of_Uruguay.svg.png 2x" data-file-width="900" data-file-height="600" /></span></td>
-<td><span class="flagicon"><img alt="Bandera de Venezuela" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/20px-Flag_of_Venezuela.svg.png" title="Bandera de Venezuela" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/30px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" /></span></td>
+<td><span class="flagicon"><img alt="Bandera de Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/20px-Flag_of_Argentina.svg.png" title="Bandera de Argentina" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/30px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/40px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" width="20" height="13"></span></td>
+<td><span class="flagicon"><img alt="Bandera de Bolivia" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/20px-Flag_of_Bolivia.svg.png" title="Bandera de Bolivia" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/30px-Flag_of_Bolivia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/40px-Flag_of_Bolivia.svg.png 2x" data-file-width="1100" data-file-height="750" width="20" height="14"></span></td>
+<td><span class="flagicon"><img alt="Bandera de Brasil" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/20px-Flag_of_Brazil.svg.png" title="Bandera de Brasil" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/30px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" width="20" height="14"></span></td>
+<td><span class="flagicon"><img alt="Bandera de Chile" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/20px-Flag_of_Chile.svg.png" title="Bandera de Chile" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/30px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/40px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" width="20" height="13"></span></td>
+<td><span class="flagicon"><img alt="Bandera de Colombia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" title="Bandera de Colombia" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/30px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png 2x" data-file-width="450" data-file-height="300" width="20" height="13"></span></td>
+<td><span class="flagicon"><img alt="Bandera de Ecuador" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/20px-Flag_of_Ecuador.svg.png" title="Bandera de Ecuador" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/30px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png 2x" data-file-width="1440" data-file-height="960" width="20" height="13"></span></td>
+<td><span class="flagicon"><img alt="Bandera de Paraguay" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/20px-Flag_of_Paraguay.svg.png" title="Bandera de Paraguay" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/30px-Flag_of_Paraguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/40px-Flag_of_Paraguay.svg.png 2x" data-file-width="600" data-file-height="330" width="20" height="11"></span></td>
+<td><span class="flagicon"><img alt="Bandera de Perú" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/20px-Flag_of_Peru.svg.png" title="Bandera de Perú" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/30px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/40px-Flag_of_Peru.svg.png 2x" data-file-width="900" data-file-height="600" width="20" height="13"></span></td>
+<td><span class="flagicon"><img alt="Bandera de Uruguay" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/20px-Flag_of_Uruguay.svg.png" title="Bandera de Uruguay" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/30px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/40px-Flag_of_Uruguay.svg.png 2x" data-file-width="900" data-file-height="600" width="20" height="13"></span></td>
+<td><span class="flagicon"><img alt="Bandera de Venezuela" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/20px-Flag_of_Venezuela.svg.png" title="Bandera de Venezuela" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/30px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" width="20" height="13"></span></td>
 </tr>
 <tr>
-<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/20px-Flag_of_Argentina.svg.png" title="Bandera de Argentina" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/30px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/40px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></span></td>
+<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/20px-Flag_of_Argentina.svg.png" title="Bandera de Argentina" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/30px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/40px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" width="20" height="13"></span></td>
 <td bgcolor="#006699"></td>
 <td>2:0</td>
 <td>1:1</td>
@@ -23,14 +23,14 @@
 <td>0:1</td>
 <td></td>
 <td>1:0</td>
-<td></td>
+<td>1:1</td>
 </tr>
 <tr>
-<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Bolivia" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/20px-Flag_of_Bolivia.svg.png" title="Bandera de Bolivia" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/30px-Flag_of_Bolivia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/40px-Flag_of_Bolivia.svg.png 2x" data-file-width="1100" data-file-height="750" /></span></td>
+<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Bolivia" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/20px-Flag_of_Bolivia.svg.png" title="Bandera de Bolivia" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/30px-Flag_of_Bolivia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/40px-Flag_of_Bolivia.svg.png 2x" data-file-width="1100" data-file-height="750" width="20" height="14"></span></td>
 <td>2:0</td>
 <td bgcolor="#006699"></td>
 <td></td>
-<td></td>
+<td>1:0</td>
 <td>2:3</td>
 <td>2:2</td>
 <td>1:0</td>
@@ -39,7 +39,7 @@
 <td>4:2</td>
 </tr>
 <tr>
-<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Brasil" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/20px-Flag_of_Brazil.svg.png" title="Bandera de Brasil" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/30px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></span></td>
+<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Brasil" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/20px-Flag_of_Brazil.svg.png" title="Bandera de Brasil" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/30px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" width="20" height="14"></span></td>
 <td>3:0</td>
 <td>5:0</td>
 <td bgcolor="#006699"></td>
@@ -52,7 +52,7 @@
 <td>3:1</td>
 </tr>
 <tr>
-<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Chile" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/20px-Flag_of_Chile.svg.png" title="Bandera de Chile" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/30px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/40px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" /></span></td>
+<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Chile" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/20px-Flag_of_Chile.svg.png" title="Bandera de Chile" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/30px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/40px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" width="20" height="13"></span></td>
 <td>1:2</td>
 <td>3:0</td>
 <td>2:0</td>
@@ -65,10 +65,10 @@
 <td>3:1</td>
 </tr>
 <tr>
-<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Colombia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" title="Bandera de Colombia" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/30px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png 2x" data-file-width="450" data-file-height="300" /></span></td>
+<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Colombia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" title="Bandera de Colombia" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/30px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png 2x" data-file-width="450" data-file-height="300" width="20" height="13"></span></td>
 <td>0:1</td>
 <td>1:0</td>
-<td></td>
+<td>1:1</td>
 <td>0:0</td>
 <td bgcolor="#006699"></td>
 <td>3:1</td>
@@ -78,7 +78,7 @@
 <td>2:0</td>
 </tr>
 <tr>
-<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Ecuador" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/20px-Flag_of_Ecuador.svg.png" title="Bandera de Ecuador" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/30px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png 2x" data-file-width="1440" data-file-height="960" /></span></td>
+<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Ecuador" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/20px-Flag_of_Ecuador.svg.png" title="Bandera de Ecuador" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/30px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png 2x" data-file-width="1440" data-file-height="960" width="20" height="13"></span></td>
 <td></td>
 <td>2:0</td>
 <td>0:3</td>
@@ -86,12 +86,12 @@
 <td>0:2</td>
 <td bgcolor="#006699"></td>
 <td>2:2</td>
-<td></td>
+<td>1:2</td>
 <td>2:1</td>
 <td>3:0</td>
 </tr>
 <tr>
-<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Paraguay" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/20px-Flag_of_Paraguay.svg.png" title="Bandera de Paraguay" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/30px-Flag_of_Paraguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/40px-Flag_of_Paraguay.svg.png 2x" data-file-width="600" data-file-height="330" /></span></td>
+<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Paraguay" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/20px-Flag_of_Paraguay.svg.png" title="Bandera de Paraguay" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/30px-Flag_of_Paraguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/40px-Flag_of_Paraguay.svg.png 2x" data-file-width="600" data-file-height="330" width="20" height="11"></span></td>
 <td>0:0</td>
 <td>2:1</td>
 <td>2:2</td>
@@ -100,11 +100,11 @@
 <td>2:1</td>
 <td bgcolor="#006699"></td>
 <td>1:4</td>
-<td></td>
+<td>1:2</td>
 <td></td>
 </tr>
 <tr>
-<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Perú" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/20px-Flag_of_Peru.svg.png" title="Bandera de Perú" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/30px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/40px-Flag_of_Peru.svg.png 2x" data-file-width="900" data-file-height="600" /></span></td>
+<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Perú" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/20px-Flag_of_Peru.svg.png" title="Bandera de Perú" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/30px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/40px-Flag_of_Peru.svg.png 2x" data-file-width="900" data-file-height="600" width="20" height="13"></span></td>
 <td>2:2</td>
 <td>2:1</td>
 <td>0:2</td>
@@ -117,7 +117,7 @@
 <td>2:2</td>
 </tr>
 <tr>
-<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Uruguay" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/20px-Flag_of_Uruguay.svg.png" title="Bandera de Uruguay" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/30px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/40px-Flag_of_Uruguay.svg.png 2x" data-file-width="900" data-file-height="600" /></span></td>
+<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Uruguay" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/20px-Flag_of_Uruguay.svg.png" title="Bandera de Uruguay" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/30px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/40px-Flag_of_Uruguay.svg.png 2x" data-file-width="900" data-file-height="600" width="20" height="13"></span></td>
 <td>0:0</td>
 <td></td>
 <td>1:4</td>
@@ -130,7 +130,7 @@
 <td>3:0</td>
 </tr>
 <tr>
-<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Venezuela" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/20px-Flag_of_Venezuela.svg.png" title="Bandera de Venezuela" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/30px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" /></span></td>
+<td bgcolor="#006699"><span class="flagicon"><img alt="Bandera de Venezuela" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/20px-Flag_of_Venezuela.svg.png" title="Bandera de Venezuela" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/30px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" width="20" height="13"></span></td>
 <td>2:2</td>
 <td>5:0</td>
 <td>0:2</td>
@@ -142,4 +142,4 @@
 <td></td>
 <td bgcolor="#006699"></td>
 </tr>
-
+</tbody></table>
