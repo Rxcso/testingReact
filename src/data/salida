@@ -1,0 +1,1541 @@
+Argentina
+Peru Ecuador 
+V D +3 96.467764
+---
+1 0 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 0 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Chile 26
+6 Ecuador 26
+7 Paraguay 24
+8 Peru 24
+9 Bolivia 16
+10 Venezuela 11
+---
+V E +4 100.000000
+---
+1 0 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 1 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 28
+5 Chile 26
+6 Ecuador 24
+7 Paraguay 24
+8 Peru 24
+9 Bolivia 16
+10 Venezuela 11
+---
+V V +6 100.000000
+---
+1 0 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Argentina 30
+3 Uruguay 30
+4 Colombia 29
+5 Chile 26
+6 Paraguay 24
+7 Peru 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+E D +1 23.251029
+---
+1 1 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 0 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Uruguay 30
+3 Colombia 29
+4 Ecuador 26
+5 Argentina 25
+6 Peru 25
+7 Chile 24
+8 Paraguay 24
+9 Bolivia 16
+10 Venezuela 11
+---
+E E +2 74.348422
+---
+1 1 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 1 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 26
+5 Chile 26
+6 Peru 25
+7 Ecuador 24
+8 Paraguay 24
+9 Bolivia 16
+10 Venezuela 11
+---
+E V +4 99.497028
+---
+1 1 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 28
+5 Chile 26
+6 Peru 25
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+D D +0 2.263374
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 0 Brasil Chile
+1 1 Chile Ecuador
+1 2 Colombia Paraguay
+1 0 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 43
+2 Uruguay 30
+3 Colombia 29
+4 Peru 27
+5 Argentina 24
+6 Chile 24
+7 Ecuador 24
+8 Paraguay 24
+9 Bolivia 16
+10 Venezuela 11
+---
+D E +1 30.452675
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 1 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Uruguay 30
+3 Colombia 29
+4 Peru 27
+5 Argentina 25
+6 Chile 24
+7 Ecuador 24
+8 Paraguay 24
+9 Bolivia 16
+10 Venezuela 11
+---
+D V +3 83.488797
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+Brasil
+Bolivia Chile 
+D V +3 100.000000
+---
+1 2 Argentina Peru
+1 0 Bolivia Brasil
+1 0 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Paraguay 24
+7 Chile 23
+8 Ecuador 23
+9 Bolivia 19
+10 Venezuela 11
+---
+D E +1 100.000000
+---
+1 2 Argentina Peru
+1 0 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 38
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 24
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 19
+10 Venezuela 11
+---
+D D +0 100.000000
+---
+1 2 Argentina Peru
+1 0 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 37
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 19
+10 Venezuela 11
+---
+E V +4 100.000000
+---
+1 2 Argentina Peru
+1 1 Bolivia Brasil
+1 0 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Paraguay 24
+7 Chile 23
+8 Ecuador 23
+9 Bolivia 17
+10 Venezuela 11
+---
+E E +2 100.000000
+---
+1 2 Argentina Peru
+1 1 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 39
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 24
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 17
+10 Venezuela 11
+---
+E D +1 100.000000
+---
+1 2 Argentina Peru
+1 1 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 38
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 17
+10 Venezuela 11
+---
+V V +6 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 0 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 43
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Paraguay 24
+7 Chile 23
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+V E +4 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 24
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+V D +3 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+Chile
+Brasil Ecuador 
+D V +3 65.363512
+---
+1 1 Argentina Peru
+1 2 Bolivia Brasil
+1 0 Brasil Chile
+1 0 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 43
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 28
+5 Chile 26
+6 Peru 25
+7 Paraguay 24
+8 Ecuador 20
+9 Bolivia 16
+10 Venezuela 11
+---
+D E +1 5.212620
+---
+1 0 Argentina Peru
+1 2 Bolivia Brasil
+1 0 Brasil Chile
+1 1 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 43
+2 Argentina 30
+3 Uruguay 30
+4 Colombia 29
+5 Chile 24
+6 Paraguay 24
+7 Peru 24
+8 Ecuador 21
+9 Bolivia 16
+10 Venezuela 11
+---
+E V +4 89.168572
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 0 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Uruguay 30
+3 Colombia 29
+4 Chile 27
+5 Argentina 27
+6 Peru 27
+7 Paraguay 24
+8 Ecuador 20
+9 Bolivia 16
+10 Venezuela 11
+---
+E E +2 34.567901
+---
+1 1 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 1 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 28
+5 Chile 25
+6 Peru 25
+7 Paraguay 24
+8 Ecuador 21
+9 Bolivia 16
+10 Venezuela 11
+---
+E D +1 1.851852
+---
+1 0 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Argentina 30
+3 Uruguay 30
+4 Colombia 29
+5 Chile 24
+6 Paraguay 24
+7 Peru 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+V V +6 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 0 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Chile 29
+4 Colombia 29
+5 Argentina 27
+6 Peru 27
+7 Paraguay 24
+8 Ecuador 20
+9 Bolivia 16
+10 Venezuela 11
+---
+V E +4 89.168572
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 1 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Chile 27
+5 Argentina 27
+6 Peru 27
+7 Paraguay 24
+8 Ecuador 21
+9 Bolivia 16
+10 Venezuela 11
+---
+V D +3 54.115226
+---
+1 1 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 28
+5 Chile 26
+6 Peru 25
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+Colombia
+Paraguay Peru 
+V D +3 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 0 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 0 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Peru 30
+3 Uruguay 30
+4 Colombia 29
+5 Argentina 27
+6 Chile 26
+7 Ecuador 23
+8 Paraguay 21
+9 Bolivia 16
+10 Venezuela 11
+---
+V E +4 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 0 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 1 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Colombia 30
+3 Uruguay 30
+4 Peru 28
+5 Argentina 27
+6 Chile 26
+7 Ecuador 23
+8 Paraguay 21
+9 Bolivia 16
+10 Venezuela 11
+---
+V V +6 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 0 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Colombia 32
+3 Uruguay 30
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Ecuador 23
+8 Paraguay 21
+9 Bolivia 16
+10 Venezuela 11
+---
+E D +1 92.457705
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 1 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 0 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Peru 30
+3 Uruguay 30
+4 Colombia 27
+5 Argentina 27
+6 Chile 26
+7 Ecuador 23
+8 Paraguay 22
+9 Bolivia 16
+10 Venezuela 11
+---
+E E +2 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 1 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 1 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 28
+4 Peru 28
+5 Argentina 27
+6 Chile 26
+7 Ecuador 23
+8 Paraguay 22
+9 Bolivia 16
+10 Venezuela 11
+---
+E V +4 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 1 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Colombia 30
+3 Uruguay 30
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Ecuador 23
+8 Paraguay 22
+9 Bolivia 16
+10 Venezuela 11
+---
+D D +0 53.223594
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 0 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Peru 30
+3 Uruguay 30
+4 Argentina 27
+5 Colombia 26
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+D E +1 94.942082
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 1 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Peru 28
+4 Colombia 27
+5 Argentina 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+D V +3 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+Ecuador
+Chile Argentina 
+E V +4 3.017833
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 0 Brasil Chile
+1 1 Chile Ecuador
+1 2 Colombia Paraguay
+1 0 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 43
+2 Uruguay 30
+3 Colombia 29
+4 Peru 27
+5 Ecuador 24
+6 Argentina 24
+7 Chile 24
+8 Paraguay 24
+9 Bolivia 16
+10 Venezuela 11
+---
+V V +6 72.085048
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 0 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Peru 27
+5 Ecuador 26
+6 Chile 26
+7 Argentina 24
+8 Paraguay 24
+9 Bolivia 16
+10 Venezuela 11
+---
+V E +4 1.851852
+---
+1 0 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 1 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 28
+5 Ecuador 24
+6 Chile 24
+7 Paraguay 24
+8 Peru 24
+9 Bolivia 16
+10 Venezuela 11
+---
+Paraguay
+Colombia Venezuela 
+D V +3 1.268861
+---
+1 0 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 0 Colombia Paraguay
+1 2 Ecuador Argentina
+1 0 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Colombia 32
+3 Argentina 30
+4 Uruguay 30
+5 Paraguay 24
+6 Chile 24
+7 Peru 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 8
+---
+E V +4 12.962963
+---
+1 1 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 1 Colombia Paraguay
+1 2 Ecuador Argentina
+1 0 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Colombia 30
+3 Uruguay 30
+4 Argentina 28
+5 Paraguay 25
+6 Peru 25
+7 Chile 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 8
+---
+V V +6 88.139003
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 0 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Paraguay 27
+5 Argentina 27
+6 Peru 27
+7 Chile 26
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 8
+---
+V E +4 12.962963
+---
+1 1 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 1 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 28
+5 Paraguay 25
+6 Peru 25
+7 Chile 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 9
+---
+V D +3 1.268861
+---
+1 0 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Argentina 30
+3 Uruguay 30
+4 Colombia 29
+5 Paraguay 24
+6 Chile 24
+7 Peru 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+Peru
+Argentina Colombia 
+D V +3 88.838592
+---
+1 0 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 0 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Argentina 30
+3 Uruguay 30
+4 Peru 27
+5 Chile 26
+6 Colombia 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+D E +1 24.691358
+---
+1 0 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 1 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Argentina 30
+3 Uruguay 30
+4 Colombia 27
+5 Peru 25
+6 Chile 24
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+D D +0 7.956104
+---
+1 0 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Argentina 30
+3 Uruguay 30
+4 Colombia 29
+5 Peru 24
+6 Chile 24
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+E V +4 99.497028
+---
+1 1 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 0 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Peru 28
+4 Argentina 28
+5 Chile 26
+6 Colombia 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+E E +2 70.164609
+---
+1 1 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 1 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Argentina 28
+4 Colombia 27
+5 Peru 26
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+E D +1 34.773663
+---
+1 1 Argentina Peru
+1 2 Bolivia Brasil
+1 1 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 41
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 28
+5 Peru 25
+6 Chile 24
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+V V +6 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 0 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Peru 30
+3 Uruguay 30
+4 Argentina 27
+5 Chile 26
+6 Colombia 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+V E +4 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 1 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Peru 28
+4 Argentina 27
+5 Colombia 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+V D +3 93.882030
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Peru 27
+5 Argentina 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---
+Uruguay
+Bolivia Venezuela 
+V D +3 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 0 Uruguay Bolivia
+1 0 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Venezuela 14
+10 Bolivia 13
+---
+V E +4 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 0 Uruguay Bolivia
+1 1 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 31
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 13
+10 Venezuela 12
+---
+V V +6 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 0 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 33
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 13
+10 Venezuela 11
+---
+E D +1 99.954275
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 1 Uruguay Bolivia
+1 0 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Colombia 29
+3 Uruguay 28
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 14
+10 Venezuela 14
+---
+E E +2 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 1 Uruguay Bolivia
+1 1 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 29
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 14
+10 Venezuela 12
+---
+E V +4 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 1 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 31
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 14
+10 Venezuela 11
+---
+D D +0 96.889956
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 0 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Colombia 29
+3 Uruguay 27
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 14
+---
+D E +1 99.954275
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 1 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Colombia 29
+3 Uruguay 28
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 12
+---
+D V +3 100.000000
+---
+1 2 Argentina Peru
+1 2 Bolivia Brasil
+1 2 Brasil Chile
+1 2 Chile Ecuador
+1 2 Colombia Paraguay
+1 2 Ecuador Argentina
+1 2 Paraguay Venezuela
+1 2 Peru Colombia
+1 2 Uruguay Bolivia
+1 2 Venezuela Uruguay
+---
+---
+1 Brasil 40
+2 Uruguay 30
+3 Colombia 29
+4 Argentina 27
+5 Peru 27
+6 Chile 26
+7 Paraguay 24
+8 Ecuador 23
+9 Bolivia 16
+10 Venezuela 11
+---

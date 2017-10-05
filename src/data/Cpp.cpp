@@ -37,6 +37,17 @@ vector< pair< pair<int,int> ,  pair<string,string>  > > Lista;
 map<string , int> Pais;
 vector<int> posiciones;
     
+string paisAct;
+bool comparePais(const pair<int,string> a, const pair<int,string> b)
+{
+    if(a.fst != b.fst)
+        return a.fst > b.fst;
+    else
+        if( a.snd==paisAct ) return 1;
+        else if( b.snd==paisAct ) return 0;
+        else a.snd<b.snd;
+}
+
 void readFile(){
     char p1[100],p2[100];
     int s1,s2;
@@ -61,6 +72,10 @@ void readFile(){
 map<string,double> P;
 
 map< string, map< vii, double > > PR;
+
+map< string, map<vii,  vector< pair< pair<int,int> ,  pair<string,string>  > >   > > ResEjemplo;
+map< string, map< vii, vector< pair<int,string> > > > ResTabla;
+
 map< string, map<string, double> > Dep;
 
 int cntEmp = 0;
@@ -68,11 +83,23 @@ int cntEmp = 0;
 void analize(vector< pair<int,string> >& L, map<string , vii> &R){
     
     int pos = 0;
-    
-    while( pos<5 and L[pos].fst > L[5].fst  ){
+    int lim = 5;
+
+    while( pos<5 and L[pos].fst > L[lim].fst  ){
         P[ L[pos].snd ] += 1; 
-        PR[ L[pos].snd ][ R[ L[pos].snd ] ] += 1;
+
+        PR[ L[pos].snd ][ R[ L[pos].snd ] ] += 1;        
         
+
+        vector< pair< pair<int,int> ,  pair<string,string>  > >  Etemp(all(Lista));
+        vector< pair<int,string> > Ttemp(all(L));
+
+        ResEjemplo[ L[pos].snd ][ R[ L[pos].snd ] ] = Etemp;
+        paisAct = L[pos].snd;
+        sort( all(Ttemp) , comparePais );
+        ResTabla[ L[pos].snd ][ R[ L[pos].snd ] ] = Ttemp;
+
+
         for(int i=0; i<pos; i++){
             Dep[ L[pos].snd ][ L[i].snd ]++;
             Dep[ L[i].snd ][ L[pos].snd ]++;
@@ -83,17 +110,26 @@ void analize(vector< pair<int,string> >& L, map<string , vii> &R){
     int ini = pos;
     int tmp = pos;
     int cnt=0;
-    while( L[tmp].fst==L[4].fst )cnt++,tmp++;
+    while( L[tmp].fst==L[lim-1].fst )cnt++,tmp++;
         
-    if(L[pos].fst  == L[4].fst) cntEmp++;
+    if(L[pos].fst  == L[lim-1].fst) cntEmp++;
         
-    while( L[pos].fst==L[4].fst ){
-        P[ L[pos].snd ] += (5-ini)*1.0/cnt;
-        PR[ L[pos].snd ][ R[ L[pos].snd ] ] += (5-ini)*1.0/cnt;
+    while( L[pos].fst==L[lim-1].fst ){
+
+        vector< pair< pair<int,int> ,  pair<string,string>  > >  Etemp(all(Lista));
+        vector< pair<int,string> > Ttemp(all(L));
+
+        ResEjemplo[ L[pos].snd ][ R[ L[pos].snd ] ] = Etemp;
+        paisAct = L[pos].snd;
+        sort( all(Ttemp) , comparePais );
+        ResTabla[ L[pos].snd ][ R[ L[pos].snd ] ] = Ttemp;
+
+        P[ L[pos].snd ] += (lim-ini)*1.0/cnt;
+        PR[ L[pos].snd ][ R[ L[pos].snd ] ] += (lim-ini)*1.0/cnt;
         
         for(int i=0; i<ini; i++){
-            Dep[ L[pos].snd ][ L[i].snd ]+=((5-ini)*1.0/cnt);
-            Dep[ L[i].snd ][ L[pos].snd ]+=((5-ini)*1.0/cnt);
+            Dep[ L[pos].snd ][ L[i].snd ]+=((lim-ini)*1.0/cnt);
+            Dep[ L[i].snd ][ L[pos].snd ]+=((lim-ini)*1.0/cnt);
         }
         pos++;
     }
@@ -147,6 +183,26 @@ vector< pair<int,string> > genTabla(){
     return L;
 }
 
+void  printResultados( vector< pair< pair<int,int> ,  pair<string,string>  > > resResultados ){
+    cout<<"---"<<endl;
+    for(int pos: posiciones )
+    {
+        auto it = resResultados[ pos ];
+        cout<< it.fst.fst <<" "<<it.fst.snd<<" "<<it.snd.fst<<" "<<it.snd.snd<<endl;
+    }
+    cout<<"---"<<endl;
+}
+
+void printTabla( vector< pair<int,string> > restabla ){
+
+    cout<<"---"<<endl;
+    int pos=1;
+    for(auto p : restabla){
+        cout<< (pos++) <<" "<<p.snd<<" "<<p.fst<<endl;
+    }
+    cout<<"---"<<endl;
+
+}
 
 void print(int i){
 
@@ -189,6 +245,8 @@ void print(int i){
                     printf("+%d ",acc);
                     printf("%.6lf\n",(r.snd*9.0*100)/i);
                     
+                    printResultados( ResEjemplo[ p.fst ][  r.fst ] ); 
+                    printTabla( ResTabla[ p.fst ][r.fst] );        
                 }
             }
             
