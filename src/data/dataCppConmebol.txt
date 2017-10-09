@@ -4,11 +4,11 @@ Argentina Chile 1:0
 Argentina Colombia 3:0
 Argentina Ecuador 0:2
 Argentina Paraguay 0:1
-Argentina Peru 
+Argentina Peru 0:0
 Argentina Uruguay 1:0
 Argentina Venezuela 1:1
 Bolivia Argentina 2:0
-Bolivia Brasil 
+Bolivia Brasil 0:0
 Bolivia Chile 1:0
 Bolivia Colombia 2:3
 Bolivia Ecuador 2:2
@@ -29,7 +29,7 @@ Chile Argentina 1:2
 Chile Bolivia 3:0
 Chile Brasil 2:0
 Chile Colombia 1:1
-Chile Ecuador 
+Chile Ecuador 2:1
 Chile Paraguay 0:3
 Chile Peru 2:1
 Chile Uruguay 3:1
@@ -39,7 +39,7 @@ Colombia Bolivia 1:0
 Colombia Brasil 1:1
 Colombia Chile 0:0
 Colombia Ecuador 3:1
-Colombia Paraguay 
+Colombia Paraguay 1:2
 Colombia Peru 2:0
 Colombia Uruguay 2:2
 Colombia Venezuela 2:0
@@ -87,4 +87,4 @@ Venezuela Colombia 0:0
 Venezuela Ecuador 1:3
 Venezuela Paraguay 0:1
 Venezuela Peru 2:2
-Venezuela Uruguay 
+Venezuela Uruguay 0:0

@@ -53,7 +53,7 @@ for k,it in enumerate(todo):
         #print("%s %s %s"%(p1,p2,s))
         pass
 
-file = open("salida").read().split("\n")
+file = open("salidacppFecha18").read().split("\n")
 
 
 
@@ -61,7 +61,8 @@ def leerRes( ls, p ):
     obj={}
     p+=1
     arrRes = []
-    for i in range(10):
+    for i in range(5):
+        #print file[p]
         p1,p2, pa1 , pa2 = tuple(file[p].strip().split(" "))
         arrRes.append( { "p1":p1,"p2":p2,"pa1":pa1,"pa2":pa2 } )
         p+=1
@@ -85,6 +86,7 @@ todores = ["V","D","E"]
 pos=0
 nuevoarr=[]
 while pos< len(file):
+    #print file[pos]
     cnt =  file[pos].count(" ")
     if(cnt==0):
         pais=file[pos]
@@ -93,34 +95,35 @@ while pos< len(file):
         nuevoarr[-1]["pais"]= pais 
         #print pais
         nuevoarr[-1]["url"] = Dpais[ pais ]["url"]
-        nuevoarr[-1]["proximos"]= Dpais[pais]["proximos" ]
-        nuevoarr[-1]["localia"]= Dpais[pais]["localia"]
+        nuevoarr[-1]["proximos"]= Dpais[pais]["proximos" ][1:]
+        nuevoarr[-1]["localia"]= Dpais[pais]["localia"][1:]
 
         pos+=1
-        pais1,pais2 = file[pos].strip().split(" ")
+        pais1 = file[pos].strip()
 
-        reversa = (pais1 != nuevoarr[-1]["proximos"][0])
+        #reversa = (pais1 != nuevoarr[-1]["proximos"][0])
         pos+=1
 
         DProb={}
         for it1 in todores:
-            for it2 in todores:
-                DProb[it1+it2]={"prob":0,"tag":""}
+            DProb[it1]={"prob":0,"tag":""}
 
         while pos<len(file):
+            #print pos
             cnt =  file[pos].count(" ")
-            if (cnt==3):
-                res1,res2, tagtot, prob = tuple(file[pos].strip().split(" "))
+            if (cnt==2):
+                #print file[pos]
+                res, tagtot, prob = tuple(file[pos].strip().split(" "))
 
-                if reversa:
-                    res1,res2=res2,res1     
+                #if reversa:
+                #    res1,res2=res2,res1     
 
                 prob = float(prob)
-                DProb[res1+res2]["prob"]=prob
-                DProb[res1+res2]["tag"]=tagtot
+                DProb[res]["prob"]=prob
+                DProb[res]["tag"]=tagtot
                 pos+=1
                 pos,Obj = leerRes( file,pos )
-                DProb[res1+res2]["obj"]=Obj
+                DProb[res]["obj"]=Obj
                 if pos==len(file):
                    nuevoarr[-1]["probs"]=DProb 
             else:
@@ -134,8 +137,8 @@ for temppais in Dpais:
         nuevoarr.append(Dact)
         nuevoarr[-1]["pais"]= temppais 
         nuevoarr[-1]["url"] = Dpais[ temppais ]["url"]
-        nuevoarr[-1]["proximos"]= Dpais[temppais ]["proximos"]
-        nuevoarr[-1]["localia"]= Dpais[temppais ]["localia"]
+        nuevoarr[-1]["proximos"]= Dpais[temppais ]["proximos"][1:]
+        nuevoarr[-1]["localia"]= Dpais[temppais ]["localia"][1:]
 
 tabla = json.load( open("tablaini") )
 

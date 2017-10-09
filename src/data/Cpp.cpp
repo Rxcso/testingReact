@@ -54,10 +54,11 @@ void readFile(){
     int val;
     while( (val=scanf("%s %s %d:%d",p1,p2,&s1,&s2)) >= 2 ){
         if(val>2){
-            printf("%s %s %d:%d\n",p1,p2,s1,s2);
+            //printf("%s %s %d:%d\n",p1,p2,s1,s2);
+            val=2;
         }
         else{
-            printf("%s %s\n",p1,p2);
+            //printf("%s %s\n",p1,p2);
             s1=-1;
             s2=-1;
         }
@@ -243,7 +244,7 @@ void print(int i){
                     }
                     
                     printf("+%d ",acc);
-                    printf("%.6lf\n",(r.snd*9.0*100)/i);
+                    printf("%.6lf\n",(r.snd*3.0*100)/i);
                     
                     printResultados( ResEjemplo[ p.fst ][  r.fst ] ); 
                     printTabla( ResTabla[ p.fst ][r.fst] );        
@@ -335,7 +336,7 @@ int main(){
     
     
     int64 i=0;
-    for(; i< pow(3LL,10); i++ ){
+    for(; i< pow(3LL,posiciones.sz); i++ ){
         map<string , vii> Resultados;
     
         if(i%100000==0){

@@ -5,7 +5,7 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup';
 
-const jsondata = require('./outfin.json');
+const jsondata = require('./json18.json');
 const paises = jsondata.paises;
 const DIm = {};
 
@@ -18,8 +18,8 @@ const puntaje={ "V":3, "E":1, "D": 0 };
 
 let todores=[];
 
-for(var e1 in res)for(var e2 in res){
-  todores.push(res[e1]+res[e2])  ;
+for(var e1 in res){
+  todores.push(res[e1])  ;
 }
 
 /*
@@ -204,14 +204,14 @@ function Probabilidad(props) {
   let pos = props.pos;
   return (
     <tr onClick={props.onClick}  className={ todores[props.cod]%2?"par" :"impar" } >
-    <td> {cod[0]} </td>
-    <td> {cod[1]} </td>  
-    <td> +{ puntaje[cod[0]] +  puntaje[cod[1]]  } </td>
-    <td> { (props.data != null)? parseFloat( props.data.prob*1.00 ).toFixed(2): 0.00}% </td>
+    <td> {cod[0]} </td>  
+    <td> +{ puntaje[cod[0]]  } </td>
+    <td> { (props.data != null)? parseFloat( props.data.prob*1.00 ).toFixed(3): 0.00}% </td>
     </tr>
   );
 }
-/*
+
+
 function Partido(props) {
   
   return (
@@ -251,12 +251,10 @@ class ResMasTabla extends React.Component {
   }
 
   render(){
-      var cod = this.props.cod;
-      var pos = this.props.pos;
       
-      if( this.props.vistatabla ){
-        let resFecha =  paises[pos]["probs"][cod].obj.Resultados
-        let tablaAct =  paises[pos]["probs"][cod].obj.Tabla
+      
+        let resFecha =  this.props.Resultados
+        let tablaAct =  this.props.Tabla
 
       return(
 
@@ -269,21 +267,14 @@ class ResMasTabla extends React.Component {
           </div>
           </div>
       );
-      }
-      else
-      return(
-
-        <div>
-          </div>
-      );
+      
     }    
 }
-*/
+
 
 class TablaPos extends React.Component {
   constructor() {
     super();
-    this.state = { "linkable": true };
   }
 
   render(){
@@ -291,7 +282,7 @@ class TablaPos extends React.Component {
 
       let listapaises = tablaAct.map( (obj)=>{
         return (
-          <CountryLine obj={obj}  onClick={ ()=> this.state.linkable? this.props.onClick(obj.pais): ( (it)=>(it) ) }/>
+          <CountryLine obj={obj}  onClick={ ()=> this.props.linkable? this.props.onClick(obj.pais): ( (it)=>(it) ) }/>
         );
       } 
       );
@@ -333,7 +324,7 @@ class TablaPosibilidades extends React.Component {
 
   render(){
       var pos = this.props.pos;
-      
+      console.log(pos);      
 
       if( paises[pos].pais=="Brasil" )
       return(<div>Ya esta clasificado</div>);
@@ -343,29 +334,38 @@ class TablaPosibilidades extends React.Component {
 
       
       let midata = paises[pos].probs;
-
+console.log(midata);
       var listaprobs = todores.map( (cod)=>{
         return(
 <Probabilidad cod={cod} pos={pos} data={midata[cod]} onClick={this.click( cod ) } />
         ) } );
 
-      let lista=[0,1];
+      let lista=[0];
       let duelos = lista.map( (obj)=>{
         return (
-          <th colspan="1">
+          <th>
             ({ paises[pos].localia[obj] })
             <img src={ DIm[paises[pos].proximos[obj]] } />
             </th>        );
       });
       
+      let probTotal = todores.map((obj)=>{
+        return (
+           parseFloat(paises[pos].probs[obj].prob)
+           );
+      }).reduce((a, b) => a + b, 0)/3.0;
+      
+      console.log(duelos);
+console.log(this.state.vistatabla);
+      if(!this.state.vistatabla)
       return(
 
         <div>
         <table className="tabla-res">
           <tr >
-            <th className="col-xs-6" colSpan="2" ><center>Duelos</center> </th>
+            <th className="col-xs-4"  ><center>Duelos</center> </th>
             <th rowSpan="2">Puntos</th>
-            <th rowSpan="2">Probabilidad</th>
+            <th rowSpan="2">Probabilidad Top 5</th>
           </tr>
           <tr>
             {duelos}
@@ -373,9 +373,33 @@ class TablaPosibilidades extends React.Component {
           
           {listaprobs}
         </table>        
-        
-        </div>
-      )
+                </div>
+      );
+      else
+      return(
+
+        <div>
+        <table className="tabla-res">
+          <tr >
+            <th className="col-xs-4" ><center>Duelos</center> </th>
+            <th rowSpan="2">Puntos</th>
+            <th rowSpan="2">Probabilidad Top 5</th>
+          </tr>
+          <tr>
+            {duelos}
+            </tr>
+          
+          {listaprobs}
+          <tr className="par">
+          <td colSpan="2"> Total </td>
+          <td> { parseFloat( probTotal ).toFixed(3) }% </td>
+          </tr>
+        </table>      
+          
+                </div>
+      );
+
+
     }    
 
 }
@@ -398,13 +422,13 @@ class Table extends React.Component {
     if(pos===paises.length){
       return(
         <div className="todo1">
-        <TablaPos tablaAct={jsondata.tabla} onClick={this.props.onClick}/>
+        <TablaPos linkable={true} tablaAct={jsondata.tabla} onClick={this.props.onClick}/>
         </div>
       );
     }
     else{
       // Estamos en algun pais
-      let lista=[0,1];
+      let lista=[0];
       let duelos = lista.map( (obj)=>{
         return (
           <div>
